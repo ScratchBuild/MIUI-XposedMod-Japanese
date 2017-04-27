@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries">
+        <item>Nothing</item>
+        <item>Unlock</item>
+        <item>Home</item>
+        <item>Home on main screen</item>
+        <item>Back</item>
+        <item>Menu</item>
+        <item>Recent apps</item>
+        <item>Screen off</item>
+        <item>Reboot</item>
+        <item>Play/pause</item>
+        <item>Next</item>
+        <item>Toggle silent</item>
+        <item>Clear RAM</item>
+        <item>Toggle screen rotation</item>
+        <item>Screenshot</item>
+        <item>Toggle torch</item>
+        <item>Toggle paper mode</item>
+        <item>Video capture</item>
+        <item>Camera</item>
+        <item>Toggle bluetooth</item>
+        <item>Toggle mobile internet</item>
+        <item>Toggle WiFi</item>
+        <item>Toggle WiFi + open WiFi settings after turn on</item>
+        <item>Toggle GPS</item>
+        <item>Toggle Airplane mode</item>
+        <item>Turn off WiFi and mobile internet</item>
+        <item>Toggle screen keys</item>
+        <item>MIUI settings</item>
+        <item>This Xposed module settings</item>
+        <item>Open battery stats</item>
+        <item>End call</item>
+        <item>Calculator</item>
+        <item>Calendar</item>
+        <item>Toggle One-hand mode (left)</item>
+        <item>Toggle One-hand mode (right)</item>
+        <item>Expand statusbar</item>
+        <item>Switch to last task</item>
+        <item>Installed app shortcut</item>
+    </string-array>
+</resources>

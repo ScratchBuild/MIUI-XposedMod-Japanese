@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contacts_dial_buttons_mode_ent">
+        <item>Default</item>
+        <item>SIM-1</item>
+        <item>SIM-2</item>
+    </string-array>
+    <string-array name="contacts_list_item_click_mode_ent">
+        <item>Make call</item>
+        <item>Show quick contact dialog</item>
+        <item>Show call history details</item>
+        <item>Do nothing</item>
+    </string-array>
+    <string-array name="keyguard_swipe_to_dismiss_notifications_mode_ent">
+        <item>Lock screen only</item>
+        <item>Lock screen and notification panel</item>
+        <item>Lock screen / Lock screen and notification panel</item>
+        <item>Lock screen and notification panel / Lock screen</item>
+    </string-array>
+    <string-array name="keyguard_widget_gravity_ent">
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="keys_actions_ent">
+        <item>None</item>
+        <item>\"Menu\"</item>
+        <item>\"Home\"</item>
+        <item>\"Back\"</item>
+        <item>Previous application</item>
+        <item>Close application</item>
+        <item>Sleep</item>
+        <item>Recent applications</item>
+        <item>Show power menu</item>
+        <item>Expand notifications bar</item>
+        <item>Memory clean</item>
+        <item>Search</item>
+        <item>Screenshot</item>
+        <item>Color inversion</item>
+        <item>Launch application</item>
+    </string-array>
+    <string-array name="show_naviagation_bar_mode_ent">
+        <item>System default</item>
+        <item>Show</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="smart_notification_panel_mode_ent">
+        <item>Default</item>
+        <item>Always toggles panel</item>
+        <item>Always notifications panel</item>
+        <item>Toggles / notifications panel</item>
+        <item>Notifications / toggles panel</item>
+    </string-array>
+    <string-array name="statusbar_icons_pos_ent">
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="statusbar_signal_cluster_show_ent">
+        <item>SIM-1 and SIM-2</item>
+        <item>SIM-1</item>
+        <item>SIM-2</item>
+    </string-array>
+    <string-array name="volume_panels_ent">
+        <item>Ringer</item>
+        <item>Notification</item>
+        <item>Media</item>
+        <item>Alarm</item>
+        <item>Call</item>
+        <item>Bluetooth</item>
+    </string-array>
+</resources>
